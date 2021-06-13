@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/terrains/firewall.gif</file>
+        <file>res/terrains/forest.gif</file>
+        <file>res/terrains/ocean.gif</file>
+        <file>res/terrains/plains.gif</file>
+        <file>res/terrains/undefined.gif</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>res/icons/firewall.gif</file>
+        <file>res/icons/forest.gif</file>
+        <file>res/icons/ocean.gif</file>
+        <file>res/icons/plain.gif</file>
+        <file>res/icons/undefined.gif</file>
+    </qresource>
+</RCC>
